@@ -1,0 +1,20 @@
+.activity h4{
+    border: 2px solid lavenderblush;
+    background-color: aqua;
+    padding: 20px;
+    cursor: pointer;
+    
+}
+.activity h4:hover{
+    background-color: lightskyblue;
+}
+@media only screen and (max-width: 700px){
+   .about{
+       float: right;
+   }
+    .about img{
+       height: 50% !important;  
+      
+   }
+  
+}
