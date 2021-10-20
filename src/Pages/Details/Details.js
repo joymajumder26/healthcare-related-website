@@ -12,7 +12,7 @@ const Details = () => {
 
     let serviceDetails;
     services.map(service => {
-        if (service.id ===  parseInt(serviceId)) {
+        if (service.id === parseInt(serviceId)) {
             serviceDetails = service;
         }
 

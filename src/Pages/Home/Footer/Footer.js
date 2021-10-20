@@ -14,7 +14,7 @@ const Footer = () => {
                         <p>59 Street, 1200 Techpark</p>
                         <p>+59888555</p>
                         <p>medilink@gmail.com</p>
-                        </div>
+                    </div>
                     <div className="col-lg-4  my-lg-0 text-lg-center ">
                         <h4>Follow us</h4>
                         <a className="btn btn-dark btn-social mx-2 rounded-circle" href="#!"><i className="fab fa-twitter"></i></a>

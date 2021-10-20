@@ -25,20 +25,20 @@ const About = () => {
 
                     </div></Link>
                     <Link to="/registration">
-                    <div>
-                        <h4 className="text-primary"><i class="fas fa-user-md"></i> Find Doctor</h4>
+                        <div>
+                            <h4 className="text-primary"><i class="fas fa-user-md"></i> Find Doctor</h4>
 
-                    </div></Link>
+                        </div></Link>
                     <Link to="/registration">
-                    <div>
-                        <h4 className="text-primary"><i class="fas fa-search-location"></i> Find Location</h4>
+                        <div>
+                            <h4 className="text-primary"><i class="fas fa-search-location"></i> Find Location</h4>
 
-                    </div>
+                        </div>
                     </Link>
                     <Link to="/registration">
-                    <div>
-                        <h4 className="text-primary"><i class="fas fa-phone-volume"></i> Emergency Contact</h4>
-                    </div>
+                        <div>
+                            <h4 className="text-primary"><i class="fas fa-phone-volume"></i> Emergency Contact</h4>
+                        </div>
                     </Link>
 
                 </div>
