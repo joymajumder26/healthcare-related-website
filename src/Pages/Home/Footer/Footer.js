@@ -29,7 +29,7 @@ const Footer = () => {
                         <a className="link-dark text-decoration-none" href="#!">Terms of Use</a>
                     </div>
                 </div>
-                <div className="text-lg-center">Copyright &copy; Joy Majumder 2021</div>
+                <div className="text-lg-center">Copyright &copy; 2021</div>
             </div>
         </footer>
     );
